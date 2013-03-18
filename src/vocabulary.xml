@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- A set of words and definitions -->
+<vocabularylist>
+    <word value="cavalcade">
+        <def>A procession of riders or carriages</def>
+        <def>A procession of vehicles or ships</def>
+        <def>A dramatic sequence or procession</def>
+    </word>
+    <word value="monkey">
+        <def>a gross</def>
+        <def>hideous beast</def>
+        <def>that cannot be fought</def>
+        <def>with mortal weapons</def>
+    </word>
+    <word value="Dunno">
+        <def>if this works</def>
+        <def>but we'll find out</def>
+        <def>sure enough</def>
+        <def>before the dawn</def>
+    </word>
+</vocabularylist>
